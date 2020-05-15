@@ -1,0 +1,2 @@
+rootProject.name='SimplePlayer'
+include ':app'
